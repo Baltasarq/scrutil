@@ -1,9 +1,0 @@
-<area shape="rect" href="$scrutil_8cpp.html#91efc76bac6ebbf2fc6f40a182477474" title="scrClear" alt="" coords="124,96,193,120">
-<area shape="rect" href="$scrutil_8cpp.html#eee7224284f19a5f6b6655559c9bf1a4" title="scrGetMaxColumns" alt="" coords="261,5,397,29">
-<area shape="rect" href="$scrutil_8cpp.html#45164ff19cd3bfc3f5a2a7e050a4a89e" title="scrGetMaxRows" alt="" coords="271,53,388,77">
-<area shape="rect" href="$scrutil_8cpp.html#d42d608477a9b8b56a59a938cc305a38" title="scrMoveCursorTo" alt="" coords="268,139,391,163">
-<area shape="rect" href="$scrutil_8cpp.html#207f08a08ee895f744f6e267602438e2" title="scrInit" alt="" coords="131,195,187,219">
-<area shape="rect" href="$scrutil_8cpp.html#f87e3146ba5c0c394a9ebd473b68bb6d" title="scrSetColors" alt="" coords="111,243,207,267">
-<area shape="rect" href="$scrutil_8cpp.html#7d5b7ea46f7bdbb6b3eae4e77b4ffc31" title="scrShowCursor" alt="" coords="104,291,213,315">
-<area shape="rect" href="$scrutil_8cpp.html#c0cfcfe698c157b9fa79a3e62f41d4ec" title="scrGetConsoleSize" alt="" coords="445,29,579,53">
-<area shape="rect" href="$scrutil_8cpp.html#1464430baf99aebcf1a6695174dd4c09" title="initUnixColors" alt="" coords="279,195,380,219">

@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" href="$namespaceScrUtil.html#a31dcf5bde99ca4bf3e70f5efcf79fca6" title="ScrUtil::clear" alt="" coords="137,5,233,35"/>
-<area shape="rect" href="$namespaceScrUtil.html#a4fa0b5504ca8d4de9dc955d3b7097a14" title="ScrUtil::getMaxColumns" alt="" coords="104,59,267,88"/>
-<area shape="rect" href="$namespaceScrUtil.html#a937d49153ea496d3ae8d670413741241" title="ScrUtil::getMaxRows" alt="" coords="113,112,257,141"/>
-<area shape="rect" href="$namespaceScrUtil.html#a909378dfb433d9ea55a164090b26a95f" title="ScrUtil::init" alt="" coords="143,165,228,195"/>
-<area shape="rect" href="$namespaceScrUtil.html#adf2a85c8a82bc8a6acfff7c6f9cc4d07" title="ScrUtil::moveCursorTo" alt="" coords="109,219,261,248"/>
-<area shape="rect" href="$namespaceScrUtil.html#ad608acd553b4a0a4b306acd9b3821aaa" title="ScrUtil::setColors" alt="" coords="124,272,247,301"/>
-<area shape="rect" href="$namespaceScrUtil.html#ac7a667d741a099f1f617283889893470" title="ScrUtil::showCursor" alt="" coords="117,325,253,355"/>
-</map>
