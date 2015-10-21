@@ -1,5 +1,5 @@
 SCRUtil
 =======
 
-Multiplatform screen management for C++
+Multiplatform console management for C++
 
